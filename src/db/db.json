@@ -26,5 +26,40 @@
     "phone": "426-418-0027 x37369",
     "email": "Ines62@hotmail.com",
     "job": "Global Applications Associate"
+  },
+  {
+    "id": "ebaa23e0-dfdb-408b-a2ab-64b17c9d6dca",
+    "name": "Kristin Barton V",
+    "phone": "712.434.9502 x7487",
+    "email": "Maxine_Blanda@hotmail.com",
+    "job": "Internal Functionality Planner"
+  },
+  {
+    "id": "9ee236eb-ec0a-4c0d-87aa-2e457aa1ce7b",
+    "name": "Howard Sanford",
+    "phone": "(599) 475-6334 x8361",
+    "email": "Amari_Pollich@hotmail.com",
+    "job": "Lead Brand Representative"
+  },
+  {
+    "id": "5a1c935a-365b-4101-a6bd-1a474fbfdd07",
+    "name": "Samuel Konopelski",
+    "phone": "(238) 858-4682 x83613",
+    "email": "Darrion85@yahoo.com",
+    "job": "Forward Markets Agent"
+  },
+  {
+    "id": "31266dcd-4d44-43fe-9127-b6b931c3d3fa",
+    "name": "Alexandra Farrell",
+    "phone": "1-763-598-7459",
+    "email": "Margret64@hotmail.com",
+    "job": "Internal Integration Associate"
+  },
+  {
+    "id": "55b4739f-69c0-4715-8933-e6c5088b59ca",
+    "name": "Debbie Rohan DDS",
+    "phone": "1-385-623-3382 x86816",
+    "email": "Darion.Metz@yahoo.com",
+    "job": "Dynamic Directives Architect"
   }
 ]
